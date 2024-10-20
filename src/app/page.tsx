@@ -26,6 +26,7 @@ export default function Home() {
   return (
     <>
       <input
+        className="text-zinc-900"
         value={input}
         type="text"
         name=""

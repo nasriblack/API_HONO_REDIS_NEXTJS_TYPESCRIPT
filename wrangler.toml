@@ -1,0 +1,7 @@
+name:"fastapinasri'
+compatibility_date = "2024-10-19"
+
+[vars]
+
+UPSTASH_REDIS_REST_TOKEN = AX70AAIjcDE4YTkzYjE5Nzk3YjQ0M2EwODkzMzg3MTNlZTQ3ZGRlZXAxMA
+UPSTASH_REDIS_REST_URL = https://sharp-ox-32500.upstash.io
